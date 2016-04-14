@@ -1,4 +1,4 @@
-package com.ultimosamurais.br.expressdelivery;
+package com.ultimosamurais.br.expressdelivery.views;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,6 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.ultimosamurais.br.expressdelivery.R;
 
 public class MainActivity extends AppCompatActivity {
 
